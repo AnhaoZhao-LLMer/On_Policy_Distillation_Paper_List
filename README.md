@@ -41,6 +41,10 @@ This repository contains a regularly updated paper list on **On-Policy Distillat
   *Jonas Hübotter, Frederike Lübeck, Lejs Behric, Anton Baumann, Marco Bagatella, Daniel Marta, Ido Hakimi, Idan Shenfeld, Thomas Kleine Buening, Carlos Guestrin, Andreas Krause*. [[pdf](https://arxiv.org/pdf/2601.20802)], 2026.01. ![](https://img.shields.io/badge/Arxiv2026-orange)
 - **Privileged Information Distillation for Language Models**  
   *Emiliano Penaloza, Dheeraj Vattikonda, Nicolas Gontier, Alexandre Lacoste, Laurent Charlin, Massimo Caccia*. [[pdf](https://arxiv.org/pdf/2602.04942)], 2026.02. ![](https://img.shields.io/badge/Arxiv2026-orange)
+- **Multi-Token Prediction via Self-Distillation**  
+  *John Kirchenbauer, Abhimanyu Hans, Brian Bartoldson, Micah Goldblum, Ashwinee Panda, Tom Goldstein*. [[pdf](https://arxiv.org/pdf/2602.06019)], 2026.02. ![](https://img.shields.io/badge/Arxiv2026-orange)
+- **On-Policy Context Distillation for Language Models**  
+  *Tianzhu Ye, Li Dong, Xun Wu, Shaohan Huang, Furu Wei*. [[pdf](https://arxiv.org/pdf/2602.12275)], 2026.02. ![](https://img.shields.io/badge/Arxiv2026-orange)
 
 ### Application
 - **Learning User Interests via Reasoning and Distillation for Cross-Domain News Recommendation**  
