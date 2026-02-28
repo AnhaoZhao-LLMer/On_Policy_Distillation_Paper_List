@@ -24,7 +24,7 @@ This repository contains a regularly updated paper list on **On-Policy Distillat
 
 ### Teacher–Student–Based OPD
 - **On-Policy Distillation of Language Models: Learning from Self-Generated Mistakes**  
-  *Rishabh Agarwal, Nino Vieillard, Yongchao Zhou, Piotr Stanczyk, Sabela Ramos, Matthieu Geist, Olivier Bachem*. [[pdf](https://arxiv.org/pdf/2306.13649)], 2023.06. ![](https://img.shields.io/badge/Arxiv2023-orange)
+  *Rishabh Agarwal, Nino Vieillard, Yongchao Zhou, Piotr Stanczyk, Sabela Ramos, Matthieu Geist, Olivier Bachem*. [[pdf](https://arxiv.org/pdf/2306.13649)], 2023.06. ![](https://img.shields.io/badge/ICLR2024-orange)
 - **On-Policy Distillation**  
   *Kevin Lu and Thinking Machines Lab*. [[pdf](https://thinkingmachines.ai/blog/on-policy-distillation/)], 2025.10. ![](https://img.shields.io/badge/Blog2025-orange)
 - **Qwen3 Technical Report**  
