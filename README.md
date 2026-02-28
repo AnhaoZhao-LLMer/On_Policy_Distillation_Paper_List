@@ -1,4 +1,4 @@
-This repository contains a regularly updated paper list on **On-Policy Distillation**.
+This repository contains a regularly updated paper list on **On-Policy Distillation (OPD)**.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License](https://img.shields.io/badge/License-Apache_2.0-green.svg)](./LICENSE) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/AnhaoZhao-LLMer/On_Policy_Distillation_Paper_List/main?logo=github&color=blue) ![Static Badge](https://img.shields.io/badge/Contributions-welcome-blue.svg?style=flat) 
 
