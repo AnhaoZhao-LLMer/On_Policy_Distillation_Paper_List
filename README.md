@@ -23,6 +23,8 @@ This repository contains a regularly updated paper list on **On-Policy Distillat
 ## Papers
 
 ### Teacher–Student–Based OPD
+- **MiniLLM: On-Policy Distillation of Large Language Models**  
+  *Yuxian Gu, Li Dong, Furu Wei, Minlie Huang*. [[pdf](https://arxiv.org/pdf/2306.08543)], 2023.06. ![](https://img.shields.io/badge/ICLR2024-orange)
 - **On-Policy Distillation of Language Models: Learning from Self-Generated Mistakes**  
   *Rishabh Agarwal, Nino Vieillard, Yongchao Zhou, Piotr Stanczyk, Sabela Ramos, Matthieu Geist, Olivier Bachem*. [[pdf](https://arxiv.org/pdf/2306.13649)], 2023.06. ![](https://img.shields.io/badge/ICLR2024-orange)
 - **On-Policy Distillation**  
