@@ -43,6 +43,8 @@ This repository contains a regularly updated paper list on **On-Policy Distillat
   *Wenkai Yang, Weijie Liu, Ruobing Xie, Kai Yang, Saiyong Yang, Yankai Lin*. [[pdf](https://arxiv.org/pdf/2602.12125)], 2026.02. ![](https://img.shields.io/badge/Arxiv2026-orange)
 - **GLM-5: from Vibe Coding to Agentic Engineering**  
   *Zhipu AI & Tsinghua University*. [[pdf](https://arxiv.org/pdf/2602.15763)], 2026.02. ![](https://img.shields.io/badge/Arxiv2026-orange)
+- **Entropy-Aware On-Policy Distillation of Language Models**  
+  *Woogyeol Jin, Taywon Min, Yongjin Yang, Swanand Ravindra Kadhe, Yi Zhou, Dennis Wei, Nathalie Baracaldo, Kimin Lee*. [[pdf](https://arxiv.org/pdf/2603.07079)], 2026.03. ![](https://img.shields.io/badge/Arxiv2026-orange)
 
 ### On-Policy Self-Distillation
 - **Self-Distilled Reasoner: On-Policy Self-Distillation for Large Language Models**  
