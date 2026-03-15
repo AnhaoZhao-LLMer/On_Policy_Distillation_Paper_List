@@ -45,6 +45,8 @@ This repository contains a regularly updated paper list on **On-Policy Distillat
   *Zhipu AI & Tsinghua University*. [[pdf](https://arxiv.org/pdf/2602.15763)], 2026.02. ![](https://img.shields.io/badge/Arxiv2026-orange)
 - **Entropy-Aware On-Policy Distillation of Language Models**  
   *Woogyeol Jin, Taywon Min, Yongjin Yang, Swanand Ravindra Kadhe, Yi Zhou, Dennis Wei, Nathalie Baracaldo, Kimin Lee*. [[pdf](https://arxiv.org/pdf/2603.07079)], 2026.03. ![](https://img.shields.io/badge/Arxiv2026-orange)
+- **Scaling Reasoning Efficiently via Relaxed On-Policy Distillation**  
+  *Jongwoo Ko, Sara Abdali, Young Jin Kim, Tianyi Chen, Pashmina Cameron*. [[pdf](https://arxiv.org/pdf/2603.11137)], 2026.03. ![](https://img.shields.io/badge/Arxiv2026-orange)
 
 ### On-Policy Self-Distillation
 - **Self-Distilled Reasoner: On-Policy Self-Distillation for Large Language Models**  
@@ -61,6 +63,8 @@ This repository contains a regularly updated paper list on **On-Policy Distillat
   *Tianzhu Ye, Li Dong, Xun Wu, Shaohan Huang, Furu Wei*. [[pdf](https://arxiv.org/pdf/2602.12275)], 2026.02. ![](https://img.shields.io/badge/Arxiv2026-orange)
 - **On-Policy Self-Distillation for Reasoning Compression**  
   *Hejian Sang, Yuanda Xu, Zhengze Zhou, Ran He, Zhipeng Wang, Jiachen Sun*. [[pdf](https://arxiv.org/pdf/2603.05433)], 2026.03. ![](https://img.shields.io/badge/Arxiv2026-orange)
+- **OpenClaw-RL: Train Any Agent Simply by Talking**  
+  *Yinjie Wang, Xuyang Chen, Xiaolong Jin, Mengdi Wang, Ling Yang*. [[pdf](https://arxiv.org/pdf/2603.10165)], 2026.03. ![](https://img.shields.io/badge/Arxiv2026-orange)
 
 ### Application
 - **Learning User Interests via Reasoning and Distillation for Cross-Domain News Recommendation**  
