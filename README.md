@@ -61,6 +61,8 @@ This repository contains a regularly updated paper list on **On-Policy Distillat
   *Emiliano Penaloza, Dheeraj Vattikonda, Nicolas Gontier, Alexandre Lacoste, Laurent Charlin, Massimo Caccia*. [[pdf](https://arxiv.org/pdf/2602.04942)], 2026.02. ![](https://img.shields.io/badge/Arxiv2026-orange)
 - **Multi-Token Prediction via Self-Distillation**  
   *John Kirchenbauer, Abhimanyu Hans, Brian Bartoldson, Micah Goldblum, Ashwinee Panda, Tom Goldstein*. [[pdf](https://arxiv.org/pdf/2602.06019)], 2026.02. ![](https://img.shields.io/badge/Arxiv2026-orange)
+- **Aligning Language Models from User Interactions**  
+  *Thomas Kleine Buening, Jonas Hübotter, Barna Pásztor, Idan Shenfeld, Giorgia Ramponi, Andreas Krause*. [[pdf](https://arxiv.org/pdf/2603.12273)], 2026.03. ![](https://img.shields.io/badge/Arxiv2026-orange)
 - **On-Policy Context Distillation for Language Models**  
   *Tianzhu Ye, Li Dong, Xun Wu, Shaohan Huang, Furu Wei*. [[pdf](https://arxiv.org/pdf/2602.12275)], 2026.02. ![](https://img.shields.io/badge/Arxiv2026-orange)
 - **On-Policy Self-Distillation for Reasoning Compression**  
