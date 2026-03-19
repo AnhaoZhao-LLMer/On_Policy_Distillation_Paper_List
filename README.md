@@ -69,6 +69,8 @@ This repository contains a regularly updated paper list on **On-Policy Distillat
   *Hejian Sang, Yuanda Xu, Zhengze Zhou, Ran He, Zhipeng Wang, Jiachen Sun*. [[pdf](https://arxiv.org/pdf/2603.05433)], 2026.03. ![](https://img.shields.io/badge/Arxiv2026-orange)
 - **OpenClaw-RL: Train Any Agent Simply by Talking**  
   *Yinjie Wang, Xuyang Chen, Xiaolong Jin, Mengdi Wang, Ling Yang*. [[pdf](https://arxiv.org/pdf/2603.10165)], 2026.03. ![](https://img.shields.io/badge/Arxiv2026-orange)
+- **Online Experiential Learning for Language Models**  
+  *Tianzhu Ye, Li Dong, Qingxiu Dong, Xun Wu, Shaohan Huang, Furu Wei*. [[pdf](https://arxiv.org/pdf/2603.16856)], 2026.03. ![](https://img.shields.io/badge/Arxiv2026-orange)
 
 ### Application
 - **Learning User Interests via Reasoning and Distillation for Cross-Domain News Recommendation**  
