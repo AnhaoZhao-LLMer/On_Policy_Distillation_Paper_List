@@ -71,6 +71,8 @@ This repository contains a regularly updated paper list on **On-Policy Distillat
   *Yinjie Wang, Xuyang Chen, Xiaolong Jin, Mengdi Wang, Ling Yang*. [[pdf](https://arxiv.org/pdf/2603.10165)], 2026.03. ![](https://img.shields.io/badge/Arxiv2026-orange)
 - **Online Experiential Learning for Language Models**  
   *Tianzhu Ye, Li Dong, Qingxiu Dong, Xun Wu, Shaohan Huang, Furu Wei*. [[pdf](https://arxiv.org/pdf/2603.16856)], 2026.03. ![](https://img.shields.io/badge/Arxiv2026-orange)
+- **PACED: Distillation and Self-Distillation at the Frontier of Student Competence**  
+  *Yuanda Xu, Hejian Sang, Zhengze Zhou, Ran He, Zhipeng Wang*. [[pdf](https://arxiv.org/pdf/2603.11178)], 2026.03. ![](https://img.shields.io/badge/Arxiv2026-orange)
 
 ### Application
 - **Learning User Interests via Reasoning and Distillation for Cross-Domain News Recommendation**  
