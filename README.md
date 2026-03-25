@@ -37,6 +37,8 @@ This repository contains a regularly updated paper list on **On-Policy Distillat
   *LLM-Core Xiaomi*. [[pdf](https://arxiv.org/pdf/2601.02780)], 2026.01. ![](https://img.shields.io/badge/Arxiv2026-orange)
 - **Stable On-Policy Distillation through Adaptive Target Reformulation**  
   *Ijun Jang, Jewon Yeom, Juan Yeo, Hyunggu Lim, Taesup Kim*. [[pdf](https://arxiv.org/pdf/2601.07155)], 2026.01. ![](https://img.shields.io/badge/Arxiv2026-orange)
+- **Reinforced Attention Learning**  
+  *Bangzheng Li, Jianmo Ni, Chen Qu, Ian Miao, Liu Yang, Xingyu Fu, Muhao Chen, Derek Zhiyuan Cheng*. [[pdf](https://arxiv.org/pdf/2602.04884)], 2026.02. ![](https://img.shields.io/badge/Arxiv2026-orange)
 - **OVD: On-policy Verbal Distillation**  
   *Jing Xiong, Hui Shen, Shansan Gong, Yuxin Cheng, Jianghan Shen, Chaofan Tao, Haochen Tan, Haoli Bai, Lifeng Shang, Ngai Wong*. [[pdf](https://arxiv.org/pdf/2601.21968)], 2026.01. ![](https://img.shields.io/badge/Arxiv2026-orange)
 - **Learning beyond Teacher: Generalized On-Policy Distillation with Reward Extrapolation**  
