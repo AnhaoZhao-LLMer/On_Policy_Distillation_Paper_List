@@ -9,6 +9,7 @@ This repository contains a regularly updated paper list on **On-Policy Distillat
 - [Papers](#papers)
   - [Teacher–Student–Based OPD](#teacherstudentbased-opd)
   - [On-Policy Self-Distillation](#on-policy-self-distillation)
+  - [Controversies Around On-Policy Self-Distillation](#controversies-around-on-policy-self-distillation)
   - [Application](#application)
 
 
@@ -75,6 +76,10 @@ This repository contains a regularly updated paper list on **On-Policy Distillat
   *Tianzhu Ye, Li Dong, Qingxiu Dong, Xun Wu, Shaohan Huang, Furu Wei*. [[pdf](https://arxiv.org/pdf/2603.16856)], 2026.03. ![](https://img.shields.io/badge/Arxiv2026-orange)
 - **PACED: Distillation and Self-Distillation at the Frontier of Student Competence**  
   *Yuanda Xu, Hejian Sang, Zhengze Zhou, Ran He, Zhipeng Wang*. [[pdf](https://arxiv.org/pdf/2603.11178)], 2026.03. ![](https://img.shields.io/badge/Arxiv2026-orange)
+
+### Controversies Around On-Policy Self-Distillation
+- **Why Does Self-Distillation (Sometimes) Degrade the Reasoning Capability of LLMs?**  
+  *Jeonghye Kim, Xufang Luo, Minbeom Kim, Sangmook Lee, Dohyung Kim, Jiwon Jeon, Dongsheng Li, Yuqing Yang*. [[pdf](https://arxiv.org/pdf/2603.24472)], 2026.03. ![](https://img.shields.io/badge/Arxiv2026-orange)
 
 ### Application
 - **Learning User Interests via Reasoning and Distillation for Cross-Domain News Recommendation**  
