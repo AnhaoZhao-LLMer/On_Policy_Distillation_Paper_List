@@ -38,12 +38,14 @@ This repository contains a regularly updated paper list on **On-Policy Distillat
   *Qwen3 Team*. [[pdf](https://arxiv.org/pdf/2505.09388)], 2025.05. ![](https://img.shields.io/badge/Arxiv2025-orange)
 - **Black-Box On-Policy Distillation of Large Language Models**  
   *Tianzhu Ye, Li Dong, Zewen Chi, Xun Wu, Shaohan Huang, Furu Wei*. [[pdf](https://arxiv.org/pdf/2511.10643)], 2025.11. ![](https://img.shields.io/badge/Arxiv2025-orange)
-- **Reinforced Attention Learning**  
-  *Bangzheng Li, Jianmo Ni, Chen Qu, Ian Miao, Liu Yang, Xingyu Fu, Muhao Chen, Derek Zhiyuan Cheng*. [[pdf](https://arxiv.org/pdf/2602.04884)], 2026.02. ![](https://img.shields.io/badge/Arxiv2026-orange)
-- **OVD: On-policy Verbal Distillation**  
+- **HY-MT1.5 Technical Report**  
+  *Mao Zheng, Zheng Li, Tao Chen, Mingyang Song, Di Wang*. [[pdf](https://arxiv.org/pdf/2512.24092)], 2025.12. ![](https://img.shields.io/badge/Arxiv2025-orange)
+  - **OVD: On-policy Verbal Distillation**  
   *Jing Xiong, Hui Shen, Shansan Gong, Yuxin Cheng, Jianghan Shen, Chaofan Tao, Haochen Tan, Haoli Bai, Lifeng Shang, Ngai Wong*. [[pdf](https://arxiv.org/pdf/2601.21968)], 2026.01. ![](https://img.shields.io/badge/Arxiv2026-orange)
 - **Video-OPD: Efficient Post-Training of Multimodal Large Language Models for Temporal Video Grounding via On-Policy Distillation**  
   *Jiaze Li, Hao Yin, Haoran Xu, Boshen Xu, Wenhui Tan, Zewen He, Jianzhong Ju, Zhenbo Luo, Jian Luan*. [[pdf](https://arxiv.org/pdf/2602.02994)], 2026.02. ![](https://img.shields.io/badge/Arxiv2026-orange)
+- **Reinforced Attention Learning**  
+  *Bangzheng Li, Jianmo Ni, Chen Qu, Ian Miao, Liu Yang, Xingyu Fu, Muhao Chen, Derek Zhiyuan Cheng*. [[pdf](https://arxiv.org/pdf/2602.04884)], 2026.02. ![](https://img.shields.io/badge/Arxiv2026-orange)
 - **Learning beyond Teacher: Generalized On-Policy Distillation with Reward Extrapolation**  
   *Wenkai Yang, Weijie Liu, Ruobing Xie, Kai Yang, Saiyong Yang, Yankai Lin*. [[pdf](https://arxiv.org/pdf/2602.12125)], 2026.02. ![](https://img.shields.io/badge/Arxiv2026-orange)
 - **Fast and Effective On-policy Distillation from Reasoning Prefixes**  
