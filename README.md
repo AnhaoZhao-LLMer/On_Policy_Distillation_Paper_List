@@ -13,6 +13,7 @@ This repository contains a regularly updated paper list on **On-Policy Distillat
   - [On-Policy Self-Distillation](#on-policy-self-distillation)
   - [Training Stability](#training-stability)
   - [Controversies Around On-Policy Self-Distillation](#controversies-around-on-policy-self-distillation)
+  - [Survey](#survey)
 
 
 
@@ -96,3 +97,6 @@ This repository contains a regularly updated paper list on **On-Policy Distillat
 - **Revisiting On-Policy Distillation: Empirical Failure Modes and Simple Fixes**  
   *Yuqian Fu, Haohuan Huang, Kaiwen Jiang, Yuanheng Zhu, Dongbin Zhao*. [[pdf](https://arxiv.org/pdf/2603.25562)], 2026.03. ![](https://img.shields.io/badge/Arxiv2026-orange)
 
+### Survey
+- **A Survey of On-Policy Distillation for Large Language Models**  
+  *Mingyang Song, Mao Zheng*. [[pdf](https://arxiv.org/pdf/2604.00626)], 2026.04. ![](https://img.shields.io/badge/Arxiv2026-orange)
