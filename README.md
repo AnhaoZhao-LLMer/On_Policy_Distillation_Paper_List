@@ -92,12 +92,12 @@ This repository contains a regularly updated paper list on **On-Policy Distillat
   *Woogyeol Jin, Taywon Min, Yongjin Yang, Swanand Ravindra Kadhe, Yi Zhou, Dennis Wei, Nathalie Baracaldo, Kimin Lee*. [[pdf](https://arxiv.org/pdf/2603.07079)], 2026.03. ![](https://img.shields.io/badge/Arxiv2026-orange)
 - **Scaling Reasoning Efficiently via Relaxed On-Policy Distillation**  
   *Jongwoo Ko, Sara Abdali, Young Jin Kim, Tianyi Chen, Pashmina Cameron*. [[pdf](https://arxiv.org/pdf/2603.11137)], 2026.03. ![](https://img.shields.io/badge/Arxiv2026-orange)
+- **Revisiting On-Policy Distillation: Empirical Failure Modes and Simple Fixes**  
+  *Yuqian Fu, Haohuan Huang, Kaiwen Jiang, Yuanheng Zhu, Dongbin Zhao*. [[pdf](https://arxiv.org/pdf/2603.25562)], 2026.03. ![](https://img.shields.io/badge/Arxiv2026-orange)
 
 ### Controversies Around On-Policy Self-Distillation
 - **Why Does Self-Distillation (Sometimes) Degrade the Reasoning Capability of LLMs?**  
   *Jeonghye Kim, Xufang Luo, Minbeom Kim, Sangmook Lee, Dohyung Kim, Jiwon Jeon, Dongsheng Li, Yuqing Yang*. [[pdf](https://arxiv.org/pdf/2603.24472)], 2026.03. ![](https://img.shields.io/badge/Arxiv2026-orange)
-- **Revisiting On-Policy Distillation: Empirical Failure Modes and Simple Fixes**  
-  *Yuqian Fu, Haohuan Huang, Kaiwen Jiang, Yuanheng Zhu, Dongbin Zhao*. [[pdf](https://arxiv.org/pdf/2603.25562)], 2026.03. ![](https://img.shields.io/badge/Arxiv2026-orange)
 
 ### Survey
 - **A Survey of On-Policy Distillation for Large Language Models**  
