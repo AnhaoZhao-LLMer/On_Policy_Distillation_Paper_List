@@ -94,6 +94,8 @@ This repository contains a regularly updated paper list on **On-Policy Distillat
   *Jongwoo Ko, Sara Abdali, Young Jin Kim, Tianyi Chen, Pashmina Cameron*. [[pdf](https://arxiv.org/pdf/2603.11137)], 2026.03. ![](https://img.shields.io/badge/Arxiv2026-orange)
 - **Revisiting On-Policy Distillation: Empirical Failure Modes and Simple Fixes**  
   *Yuqian Fu, Haohuan Huang, Kaiwen Jiang, Yuanheng Zhu, Dongbin Zhao*. [[pdf](https://arxiv.org/pdf/2603.25562)], 2026.03. ![](https://img.shields.io/badge/Arxiv2026-orange)
+- **Unifying Group-Relative and Self-Distillation Policy Optimization via Sample Routing**  
+  *Gengsheng Li, Tianyu Yang, Junfeng Fang, Mingyang Song, Mao Zheng, Haiyun Guo, Dan Zhang, Jinqiao Wang, Tat-Seng Chua*. [[pdf](https://arxiv.org/pdf/2604.02288)], 2026.04. ![](https://img.shields.io/badge/Arxiv2026-orange)
 - **Self-Distilled RLVR**  
   *Chenxu Yang, Chuanyu Qin, Qingyi Si, Minghui Chen, Naibin Gu, Dingyu Yao, Zheng Lin, Weiping Wang, Jiaqi Wang, Nan Duan*. [[pdf](https://arxiv.org/pdf/2604.03128)], 2026.04. ![](https://img.shields.io/badge/Arxiv2026-orange)
 
