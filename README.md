@@ -52,6 +52,18 @@ This repository contains a regularly updated paper list on **On-Policy Distillat
   *Dongxu Zhang, Zhichao Yang, Sepehr Janghorbani, Jun Han, Andrew Ressler II, Qian Qian, Gregory D. Lyng, Sanjit Singh Batra, Robert E. Tillman*. [[pdf](https://arxiv.org/pdf/2602.15260)], 2026.02. ![](https://img.shields.io/badge/Arxiv2026-orange)
 - **Learning User Interests via Reasoning and Distillation for Cross-Domain News Recommendation**  
   *Mengdan Zhu, Yufan Zhao, Tao Di, Yulan Yan, Liang Zhao*. [[pdf](https://arxiv.org/pdf/2602.15005)], 2026.02. ![](https://img.shields.io/badge/Arxiv2026-orange)
+- **X-OPD: Cross-Modal On-Policy Distillation for Capability Alignment in Speech LLMs**  
+  *Di Cao, Dongjie Fu, Hai Yu, Siqi Zheng, Xu Tan, Tao Jin*. [[pdf](https://arxiv.org/pdf/2603.24596)], 2026.03. ![](https://img.shields.io/badge/Arxiv2026-orange)
+- **VLA-OPD: Bridging Offline SFT and Online RL for Vision-Language-Action Models via On-Policy Distillation**  
+  *Zhide Zhong, Haodong Yan, Junfeng Li, Junjie He, Tianran Zhang, Haoang Li*. [[pdf](https://arxiv.org/pdf/2603.26666)], 2026.03. ![](https://img.shields.io/badge/Arxiv2026-orange)
+- **SODA: Semi On-Policy Black-Box Distillation for Large Language Models**  
+  *Xiwen Chen, Jingjing Wang, Wenhui Zhu, Peijie Qiu, Xuanzhao Dong, Hejian Sang, Zhipeng Wang, Alborz Geramifard, Feng Luo*. [[pdf](https://arxiv.org/pdf/2604.03873)], 2026.04. ![](https://img.shields.io/badge/Arxiv2026-orange)
+- **DP-OPD: Differentially Private On-Policy Distillation for Language Models**  
+  *Fatemeh Khadem, Sajad Mousavi, Yi Fang, Yuhong Liu*. [[pdf](https://arxiv.org/pdf/2604.04461)], 2026.04. ![](https://img.shields.io/badge/Arxiv2026-orange)
+- **On-Policy Distillation of Language Models for Autonomous Vehicle Motion Planning**  
+  *Amirhossein Afsharrad, Amirhesam Abedsoltan, Ahmadreza Moradipari, Sanjay Lall*. [[pdf](https://arxiv.org/pdf/2604.07944)], 2026.04. ![](https://img.shields.io/badge/Arxiv2026-orange)
+- **HY-Embodied-0.5: Embodied Foundation Models for Real-World Agents**  
+  *Tencent Robotics X, HY Vision Team*. [[pdf](https://arxiv.org/pdf/2604.07430)], 2026.04. ![](https://img.shields.io/badge/Arxiv2026-orange)
   
 #### Multi-Teacher
 - **MiMo-V2-Flash Technical Report**  
@@ -98,6 +110,8 @@ This repository contains a regularly updated paper list on **On-Policy Distillat
   *Gengsheng Li, Tianyu Yang, Junfeng Fang, Mingyang Song, Mao Zheng, Haiyun Guo, Dan Zhang, Jinqiao Wang, Tat-Seng Chua*. [[pdf](https://arxiv.org/pdf/2604.02288)], 2026.04. ![](https://img.shields.io/badge/Arxiv2026-orange)
 - **Self-Distilled RLVR**  
   *Chenxu Yang, Chuanyu Qin, Qingyi Si, Minghui Chen, Naibin Gu, Dingyu Yao, Zheng Lin, Weiping Wang, Jiaqi Wang, Nan Duan*. [[pdf](https://arxiv.org/pdf/2604.03128)], 2026.04. ![](https://img.shields.io/badge/Arxiv2026-orange)
+- **Demystifying OPD: Length Inflation and Stabilization Strategies for Large Language Models**  
+  *Feng Luo, Yu-Neng Chuang, Guanchu Wang, Zicheng Xu, Xiaotian Han, Tianyi Zhang, Vladimir Braverman*. [[pdf](https://arxiv.org/pdf/2604.08527)], 2026.04. ![](https://img.shields.io/badge/Arxiv2026-orange)
 
 ### Controversies Around On-Policy Self-Distillation
 - **Why Does Self-Distillation (Sometimes) Degrade the Reasoning Capability of LLMs?**  
@@ -106,3 +120,5 @@ This repository contains a regularly updated paper list on **On-Policy Distillat
 ### Survey
 - **A Survey of On-Policy Distillation for Large Language Models**  
   *Mingyang Song, Mao Zheng*. [[pdf](https://arxiv.org/pdf/2604.00626)], 2026.04. ![](https://img.shields.io/badge/Arxiv2026-orange)
+- **Large Language Model Post-Training: A Unified View of Off-Policy and On-Policy Learning**  
+  *Shiwan Zhao, Zhihu Wang, Xuyang Zhao, Jiaming Zhou, Caiyue Xu, Chenfei Liu, Liting Zhang, Yuhang Jia, Yanzhe Zhang, Hualong Yu, Zichen Xu, Qicheng Li, Yong Qin*. [[pdf](https://arxiv.org/pdf/2604.07941)], 2026.04. ![](https://img.shields.io/badge/Arxiv2026-orange)
