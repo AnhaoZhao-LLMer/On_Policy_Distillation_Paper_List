@@ -12,6 +12,7 @@ This repository contains a regularly updated paper list on **On-Policy Distillat
     - [Multi-Teacher](#multi-teacher)
   - [On-Policy Self-Distillation](#on-policy-self-distillation)
   - [Training Stability](#training-stability)
+  - [Offline On-Policy Distillation](#offline-on-policy-distillation)
   - [Controversies Around On-Policy Self-Distillation](#controversies-around-on-policy-self-distillation)
   - [Survey](#survey)
 
@@ -116,6 +117,12 @@ This repository contains a regularly updated paper list on **On-Policy Distillat
   *Feng Luo, Yu-Neng Chuang, Guanchu Wang, Zicheng Xu, Xiaotian Han, Tianyi Zhang, Vladimir Braverman*. [[pdf](https://arxiv.org/pdf/2604.08527)], 2026.04. ![](https://img.shields.io/badge/Arxiv2026-orange)
 - **SCOPE: Signal-Calibrated On-Policy Distillation Enhancement with Dual-Path Adaptive Weighting**  
   *Binbin Zheng, Xing Ma, Yiheng Liang, Jingqing Ruan, Xiaoliang Fu, Kepeng Lin, Benchang Zhu, Ke Zeng, Xunliang Cai*. [[pdf](https://arxiv.org/pdf/2604.10688)], 2026.04. ![](https://img.shields.io/badge/Arxiv2026-orange)
+- **Rethinking On-Policy Distillation of Large Language Models: Phenomenology, Mechanism, and Recipe**  
+  *Yaxuan Li, Yuxin Zuo, Bingxiang He, Jinqian Zhang, Chaojun Xiao, Cheng Qian, Tianyu Yu, Huan-ang Gao, Wenkai Yang, Zhiyuan Liu, Ning Ding*. [[pdf](https://arxiv.org/pdf/2604.13016)], 2026.04. ![](https://img.shields.io/badge/Arxiv2026-orange)
+
+### Offline On-Policy Distillation
+- **Lightning OPD: Efficient Post-Training for Large Reasoning Models with Offline On-Policy Distillation**  
+  *Yecheng Wu, Song Han, Hai Cai*. [[pdf](https://arxiv.org/pdf/2604.13010)], 2026.04. ![](https://img.shields.io/badge/Arxiv2026-orange)
 
 ### Controversies Around On-Policy Self-Distillation
 - **Why Does Self-Distillation (Sometimes) Degrade the Reasoning Capability of LLMs?**  
