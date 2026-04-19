@@ -119,6 +119,8 @@ This repository contains a regularly updated paper list on **On-Policy Distillat
   *Binbin Zheng, Xing Ma, Yiheng Liang, Jingqing Ruan, Xiaoliang Fu, Kepeng Lin, Benchang Zhu, Ke Zeng, Xunliang Cai*. [[pdf](https://arxiv.org/pdf/2604.10688)], 2026.04. ![](https://img.shields.io/badge/Arxiv2026-orange)
 - **Rethinking On-Policy Distillation of Large Language Models: Phenomenology, Mechanism, and Recipe**  
   *Yaxuan Li, Yuxin Zuo, Bingxiang He, Jinqian Zhang, Chaojun Xiao, Cheng Qian, Tianyu Yu, Huan-ang Gao, Wenkai Yang, Zhiyuan Liu, Ning Ding*. [[pdf](https://arxiv.org/pdf/2604.13016)], 2026.04. ![](https://img.shields.io/badge/Arxiv2026-orange)
+- **TIP: Token Importance in On-Policy Distillation**  
+  *Yuanda Xu, Hejian Sang, Zhengze Zhou, Ran He, Zhipeng Wang, Alborz Geramifard*. [[pdf](https://arxiv.org/pdf/2604.14084)], 2026.04. ![](https://img.shields.io/badge/Arxiv2026-orange)
 
 ### Offline On-Policy Distillation
 - **Lightning OPD: Efficient Post-Training for Large Reasoning Models with Offline On-Policy Distillation**  
