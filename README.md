@@ -73,6 +73,8 @@ This repository contains a regularly updated paper list on **On-Policy Distillat
   *Zhipu AI & Tsinghua University*. [[pdf](https://arxiv.org/pdf/2602.15763)], 2026.02. ![](https://img.shields.io/badge/Arxiv2026-orange)
 - **Nemotron-Cascade 2: Post-Training LLMs with Cascade RL and Multi-Domain On-Policy Distillation**  
   *Zhuolin Yang, Zihan Liu, Yang Chen, Wenliang Dai, Boxin Wang, Sheng-Chieh Lin, Chankyu Lee, Yangyi Chen, Dongfu Jiang, Jiafan He, Renjie Pi, Grace Lam, Nayeon Lee, Alexander Bukharin, Mohammad Shoeybi, Bryan Catanzaro, Wei Ping*. [[pdf](https://arxiv.org/pdf/2603.19220)], 2026.03. ![](https://img.shields.io/badge/Arxiv2026-orange)
+- **KAT-Coder-V2 Technical Report**  
+  *KwaiKAT Team*. [[pdf](https://arxiv.org/pdf/2603.27703)], 2026.03. ![](https://img.shields.io/badge/Arxiv2026-orange)
 
 ### On-Policy Self-Distillation
 - **Self-Distilled Reasoner: On-Policy Self-Distillation for Large Language Models**  
