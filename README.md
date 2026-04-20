@@ -53,6 +53,8 @@ This repository contains a regularly updated paper list on **On-Policy Distillat
   *Dongxu Zhang, Zhichao Yang, Sepehr Janghorbani, Jun Han, Andrew Ressler II, Qian Qian, Gregory D. Lyng, Sanjit Singh Batra, Robert E. Tillman*. [[pdf](https://arxiv.org/pdf/2602.15260)], 2026.02. ![](https://img.shields.io/badge/Arxiv2026-orange)
 - **Learning User Interests via Reasoning and Distillation for Cross-Domain News Recommendation**  
   *Mengdan Zhu, Yufan Zhao, Tao Di, Yulan Yan, Liang Zhao*. [[pdf](https://arxiv.org/pdf/2602.15005)], 2026.02. ![](https://img.shields.io/badge/Arxiv2026-orange)
+- **Explain in Your Own Words: Improving Reasoning via Token-Selective Dual Knowledge Distillation**  
+  *Minsang Kim, Seung Jun Baek*. [[pdf](https://arxiv.org/pdf/2603.13260)], 2026.03. ![](https://img.shields.io/badge/Arxiv2026-orange)
 - **X-OPD: Cross-Modal On-Policy Distillation for Capability Alignment in Speech LLMs**  
   *Di Cao, Dongjie Fu, Hai Yu, Siqi Zheng, Xu Tan, Tao Jin*. [[pdf](https://arxiv.org/pdf/2603.24596)], 2026.03. ![](https://img.shields.io/badge/Arxiv2026-orange)
 - **VLA-OPD: Bridging Offline SFT and Online RL for Vision-Language-Action Models via On-Policy Distillation**  
