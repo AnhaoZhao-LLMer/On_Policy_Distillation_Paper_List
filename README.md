@@ -67,6 +67,8 @@ This repository contains a regularly updated paper list on **On-Policy Distillat
   *Amirhossein Afsharrad, Amirhesam Abedsoltan, Ahmadreza Moradipari, Sanjay Lall*. [[pdf](https://arxiv.org/pdf/2604.07944)], 2026.04. ![](https://img.shields.io/badge/Arxiv2026-orange)
 - **HY-Embodied-0.5: Embodied Foundation Models for Real-World Agents**  
   *Tencent Robotics X, HY Vision Team*. [[pdf](https://arxiv.org/pdf/2604.07430)], 2026.04. ![](https://img.shields.io/badge/Arxiv2026-orange)
+- **The Illusion of Certainty: Decoupling Capability and Calibration in On-Policy Distillation**  
+  *Jiaxin Zhang, Xiangyu Peng, Qinglin Chen, Qinyuan Ye, Caiming Xiong, Chien-Sheng Wu*. [[pdf](https://arxiv.org/pdf/2604.16830)], 2026.04. ![](https://img.shields.io/badge/Arxiv2026-orange)
   
 #### Multi-Teacher
 - **MiMo-V2-Flash Technical Report**  
@@ -105,7 +107,9 @@ This repository contains a regularly updated paper list on **On-Policy Distillat
   *Yuanda Xu, Hejian Sang, Zhengze Zhou, Ran He, Zhipeng Wang*. [[pdf](https://arxiv.org/pdf/2603.11178)], 2026.03. ![](https://img.shields.io/badge/Arxiv2026-orange)
 - **Skill-SD: Skill-Conditioned Self-Distillation for Multi-turn LLM Agents**  
   *Hao Wang, Guozhi Wang, Han Xiao, Yufeng Zhou, Yue Pan, Jichao Wang, Ke Xu, Yafei Wen, Xiaohu Ruan, Xiaoxin Chen, Honggang Qi*. [[pdf](https://arxiv.org/pdf/2604.10674)], 2026.04. ![](https://img.shields.io/badge/Arxiv2026-orange)
-
+- **OPSDL: On-Policy Self-Distillation for Long-Context Language Models**  
+  *Xinsen Zhang, Zhenkai Ding, Tianjun Pan, Run Yang, Chun Kang, Xue Xiong, Jingnan Gu*. [[pdf](https://arxiv.org/pdf/2604.17535)], 2026.04. ![](https://img.shields.io/badge/Arxiv2026-orange)
+  
 ### Training Stability
 - **Stable On-Policy Distillation through Adaptive Target Reformulation**  
   *Ijun Jang, Jewon Yeom, Juan Yeo, Hyunggu Lim, Taesup Kim*. [[pdf](https://arxiv.org/pdf/2601.07155)], 2026.01. ![](https://img.shields.io/badge/Arxiv2026-orange)
