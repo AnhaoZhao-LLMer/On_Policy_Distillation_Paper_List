@@ -69,6 +69,8 @@ This repository contains a regularly updated paper list on **On-Policy Distillat
   *Tencent Robotics X, HY Vision Team*. [[pdf](https://arxiv.org/pdf/2604.07430)], 2026.04. ![](https://img.shields.io/badge/Arxiv2026-orange)
 - **The Illusion of Certainty: Decoupling Capability and Calibration in On-Policy Distillation**  
   *Jiaxin Zhang, Xiangyu Peng, Qinglin Chen, Qinyuan Ye, Caiming Xiong, Chien-Sheng Wu*. [[pdf](https://arxiv.org/pdf/2604.16830)], 2026.04. ![](https://img.shields.io/badge/Arxiv2026-orange)
+- **Hybrid Policy Distillation for LLMs**  
+  *Wenhong Zhu, Ruobing Xie, Rui Wang, Pengfei Liu*. [[pdf](https://arxiv.org/pdf/2604.20244)], 2026.04. ![](https://img.shields.io/badge/Arxiv2026-orange)
   
 #### Multi-Teacher
 - **MiMo-V2-Flash Technical Report**  
