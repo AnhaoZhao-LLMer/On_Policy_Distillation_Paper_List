@@ -71,6 +71,11 @@ This repository contains a regularly updated paper list on **On-Policy Distillat
   *Jiaxin Zhang, Xiangyu Peng, Qinglin Chen, Qinyuan Ye, Caiming Xiong, Chien-Sheng Wu*. [[pdf](https://arxiv.org/pdf/2604.16830)], 2026.04. ![](https://img.shields.io/badge/Arxiv2026-orange)
 - **Hybrid Policy Distillation for LLMs**  
   *Wenhong Zhu, Ruobing Xie, Rui Wang, Pengfei Liu*. [[pdf](https://arxiv.org/pdf/2604.20244)], 2026.04. ![](https://img.shields.io/badge/Arxiv2026-orange)
+- **Efficient Rationale-based Retrieval: On-policy Distillation from Generative Rerankers based on JEPA**  
+  *Teng Chen, Sheng Xu, Feixiang Guo, Xiaoyu Wang, Qingqing Gu, Hongyan Li, Luo Ji*. [[pdf](https://arxiv.org/pdf/2604.23336)], 2026.04. ![](https://img.shields.io/badge/Arxiv2026-orange)
+- **TCOD: Exploring Temporal Curriculum in On-Policy Distillation for Multi-turn Autonomous Agents**  
+  *Jiaqi Wang, Wenhao Zhang, Weijie Shi, Yaliang Li, James Cheng*. [[pdf](https://arxiv.org/pdf/2604.24005)], 2026.04. ![](https://img.shields.io/badge/Arxiv2026-orange)
+
   
 #### Multi-Teacher
 - **MiMo-V2-Flash Technical Report**  
