@@ -118,6 +118,8 @@ This repository contains a regularly updated paper list on **On-Policy Distillat
   *Hao Wang, Guozhi Wang, Han Xiao, Yufeng Zhou, Yue Pan, Jichao Wang, Ke Xu, Yafei Wen, Xiaohu Ruan, Xiaoxin Chen, Honggang Qi*. [[pdf](https://arxiv.org/pdf/2604.10674)], 2026.04. ![](https://img.shields.io/badge/Arxiv2026-orange)
 - **OPSDL: On-Policy Self-Distillation for Long-Context Language Models**  
   *Xinsen Zhang, Zhenkai Ding, Tianjun Pan, Run Yang, Chun Kang, Xue Xiong, Jingnan Gu*. [[pdf](https://arxiv.org/pdf/2604.17535)], 2026.04. ![](https://img.shields.io/badge/Arxiv2026-orange)
+- **PAINT: Partial-Solution Adaptive Interpolated Training for Self-Distilled Reasoners**  
+  *Zhiquan Tan, Yinrong Hong*. [[pdf](https://arxiv.org/pdf/2604.26573)], 2026.04. ![](https://img.shields.io/badge/Arxiv2026-orange)
   
 ### Training Stability
 - **Stable On-Policy Distillation through Adaptive Target Reformulation**  
