@@ -75,7 +75,8 @@ This repository contains a regularly updated paper list on **On-Policy Distillat
   *Teng Chen, Sheng Xu, Feixiang Guo, Xiaoyu Wang, Qingqing Gu, Hongyan Li, Luo Ji*. [[pdf](https://arxiv.org/pdf/2604.23336)], 2026.04. ![](https://img.shields.io/badge/Arxiv2026-orange)
 - **TCOD: Exploring Temporal Curriculum in On-Policy Distillation for Multi-turn Autonomous Agents**  
   *Jiaqi Wang, Wenhao Zhang, Weijie Shi, Yaliang Li, James Cheng*. [[pdf](https://arxiv.org/pdf/2604.24005)], 2026.04. ![](https://img.shields.io/badge/Arxiv2026-orange)
-
+- **PRISM: Pre-alignment via Black-box On-policy Distillation for Multimodal Reinforcement Learning**  
+  *Sudong Wang, Weiquan Huang, Xiaomin Yu, Zuhao Yang, Hehai Lin, Keming Wu, Chaojun Xiao, Chen Chen, Wenxuan Wang, Beier Zhu, Yunjian Zhang, Chengwei Qin*. [[pdf](https://arxiv.org/pdf/2604.28123)], 2026.04. ![](https://img.shields.io/badge/Arxiv2026-orange)
   
 #### Multi-Teacher
 - **MiMo-V2-Flash Technical Report**  
@@ -88,6 +89,9 @@ This repository contains a regularly updated paper list on **On-Policy Distillat
   *KwaiKAT Team*. [[pdf](https://arxiv.org/pdf/2603.27703)], 2026.03. ![](https://img.shields.io/badge/Arxiv2026-orange)
 - **DeepSeek-V4 Technical Report**  
   *DeepSeek Team*. [[pdf](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro/blob/main/DeepSeek_V4.pdf)], 2026.04. ![](https://img.shields.io/badge/TechnicalReport2026-orange)
+- **Co-Evolving Policy Distillation**  
+  *Naibin Gu, Chenxu Yang, Qingyi Si, Chuanyu Qin, Dingyu Yao, Peng Fu, Zheng Lin, Weiping Wang, Nan Duan, Jiaqi Wang*. [[pdf](https://arxiv.org/pdf/2604.27083)], 2026.04. ![](https://img.shields.io/badge/Arxiv2026-orange)
+
 
 ### On-Policy Self-Distillation
 - **Self-Distilled Reasoner: On-Policy Self-Distillation for Large Language Models**  
