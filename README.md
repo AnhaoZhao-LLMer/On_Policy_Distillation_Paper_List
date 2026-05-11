@@ -12,6 +12,9 @@ This repository contains a regularly updated paper list on **On-Policy Distillat
     - [Multi-Teacher](#multi-teacher)
   - [On-Policy Self-Distillation](#on-policy-self-distillation)
   - [Training Stability](#training-stability)
+  - [Cross-Tokenizer On-Policy Distillation](#cross-tokenizer-on-policy-distillation)
+    - [White-Box](#white-box)
+    - [Black-Box](#black-box)
   - [Offline On-Policy Distillation](#offline-on-policy-distillation)
   - [Controversies Around On-Policy Self-Distillation](#controversies-around-on-policy-self-distillation)
   - [Survey](#survey)
@@ -37,12 +40,8 @@ This repository contains a regularly updated paper list on **On-Policy Distillat
   *Kevin Lu and Thinking Machines Lab*. [[pdf](https://thinkingmachines.ai/blog/on-policy-distillation/)], 2025.10. ![](https://img.shields.io/badge/Blog2025-orange)
 - **Qwen3 Technical Report**  
   *Qwen3 Team*. [[pdf](https://arxiv.org/pdf/2505.09388)], 2025.05. ![](https://img.shields.io/badge/Arxiv2025-orange)
-- **Black-Box On-Policy Distillation of Large Language Models**  
-  *Tianzhu Ye, Li Dong, Zewen Chi, Xun Wu, Shaohan Huang, Furu Wei*. [[pdf](https://arxiv.org/pdf/2511.10643)], 2025.11. ![](https://img.shields.io/badge/Arxiv2025-orange)
 - **HY-MT1.5 Technical Report**  
   *Mao Zheng, Zheng Li, Tao Chen, Mingyang Song, Di Wang*. [[pdf](https://arxiv.org/pdf/2512.24092)], 2025.12. ![](https://img.shields.io/badge/Arxiv2025-orange)
-- **OVD: On-policy Verbal Distillation**  
-  *Jing Xiong, Hui Shen, Shansan Gong, Yuxin Cheng, Jianghan Shen, Chaofan Tao, Haochen Tan, Haoli Bai, Lifeng Shang, Ngai Wong*. [[pdf](https://arxiv.org/pdf/2601.21968)], 2026.01. ![](https://img.shields.io/badge/Arxiv2026-orange)
 - **Video-OPD: Efficient Post-Training of Multimodal Large Language Models for Temporal Video Grounding via On-Policy Distillation**  
   *Jiaze Li, Hao Yin, Haoran Xu, Boshen Xu, Wenhui Tan, Zewen He, Jianzhong Ju, Zhenbo Luo, Jian Luan*. [[pdf](https://arxiv.org/pdf/2602.02994)], 2026.02. ![](https://img.shields.io/badge/Arxiv2026-orange)
 - **Reinforced Attention Learning**  
@@ -59,8 +58,6 @@ This repository contains a regularly updated paper list on **On-Policy Distillat
   *Di Cao, Dongjie Fu, Hai Yu, Siqi Zheng, Xu Tan, Tao Jin*. [[pdf](https://arxiv.org/pdf/2603.24596)], 2026.03. ![](https://img.shields.io/badge/Arxiv2026-orange)
 - **VLA-OPD: Bridging Offline SFT and Online RL for Vision-Language-Action Models via On-Policy Distillation**  
   *Zhide Zhong, Haodong Yan, Junfeng Li, Junjie He, Tianran Zhang, Haoang Li*. [[pdf](https://arxiv.org/pdf/2603.26666)], 2026.03. ![](https://img.shields.io/badge/Arxiv2026-orange)
-- **SODA: Semi On-Policy Black-Box Distillation for Large Language Models**  
-  *Xiwen Chen, Jingjing Wang, Wenhui Zhu, Peijie Qiu, Xuanzhao Dong, Hejian Sang, Zhipeng Wang, Alborz Geramifard, Feng Luo*. [[pdf](https://arxiv.org/pdf/2604.03873)], 2026.04. ![](https://img.shields.io/badge/Arxiv2026-orange)
 - **DP-OPD: Differentially Private On-Policy Distillation for Language Models**  
   *Fatemeh Khadem, Sajad Mousavi, Yi Fang, Yuhong Liu*. [[pdf](https://arxiv.org/pdf/2604.04461)], 2026.04. ![](https://img.shields.io/badge/Arxiv2026-orange)
 - **On-Policy Distillation of Language Models for Autonomous Vehicle Motion Planning**  
@@ -77,7 +74,15 @@ This repository contains a regularly updated paper list on **On-Policy Distillat
   *Jiaqi Wang, Wenhao Zhang, Weijie Shi, Yaliang Li, James Cheng*. [[pdf](https://arxiv.org/pdf/2604.24005)], 2026.04. ![](https://img.shields.io/badge/Arxiv2026-orange)
 - **PRISM: Pre-alignment via Black-box On-policy Distillation for Multimodal Reinforcement Learning**  
   *Sudong Wang, Weiquan Huang, Xiaomin Yu, Zuhao Yang, Hehai Lin, Keming Wu, Chaojun Xiao, Chen Chen, Wenxuan Wang, Beier Zhu, Yunjian Zhang, Chengwei Qin*. [[pdf](https://arxiv.org/pdf/2604.28123)], 2026.04. ![](https://img.shields.io/badge/Arxiv2026-orange)
-  
+- **HyperEyes: Dual-Grained Efficiency-Aware Reinforcement Learning for Parallel Multimodal Search Agents**  
+  *Guankai Li, Jiabin Chen, Yi Xu, Xichen Zhang, Yuan Lu*. [[pdf](https://arxiv.org/pdf/2605.07177)], 2026.05. ![](https://img.shields.io/badge/Arxiv2026-orange)
+- **LiteGUI: Distilling Compact GUI Agents with Reinforcement Learning**  
+  *Yubin Wu, Zicheng Cai, Liping Ning, Hua Wang, Zhi Chen, Yaohua Tang, Hao Chen*. [[pdf](https://arxiv.org/pdf/2605.07505)], 2026.05. ![](https://img.shields.io/badge/Arxiv2026-orange)
+- **SOD: Step-wise On-policy Distillation for Small Language Model Agents**  
+  *Qiyong Zhong, Mao Zheng, Mingyang Song, Xin Lin, Jie Sun, Houcheng Jiang, Xiang Wang, Junfeng Fang*. [[pdf](https://arxiv.org/pdf/2605.07725)], 2026.05. ![](https://img.shields.io/badge/Arxiv2026-orange)
+- **Flow-OPD: On-Policy Distillation for Flow Matching Models**  
+  *Zhen Fang, Wenxuan Huang, Yu Zeng, Yiming Zhao, Shuang Chen, Kaituo Feng, Yunlong Lin, Lin Chen, Zehui Chen, Shaosheng Cao, Feng Zhao*. [[pdf](https://arxiv.org/pdf/2605.08063)], 2026.05. ![](https://img.shields.io/badge/Arxiv2026-orange)
+
 #### Multi-Teacher
 - **MiMo-V2-Flash Technical Report**  
   *LLM-Core Xiaomi*. [[pdf](https://arxiv.org/pdf/2601.02780)], 2026.01. ![](https://img.shields.io/badge/Arxiv2026-orange)
@@ -138,7 +143,8 @@ This repository contains a regularly updated paper list on **On-Policy Distillat
   *Dengyang Jiang, Xin Jin, Dongyang Liu, Zanyi Wang, Mingzhe Zheng, Ruoyi Du, Xiangpeng Yang, Qilong Wu, Zhen Li, Peng Gao, Harry Yang, Steven Hoi*. [[pdf](https://arxiv.org/pdf/2605.05204)], 2026.05. ![](https://img.shields.io/badge/Arxiv2026-orange)
 - **VISD: Enhancing Video Reasoning via Structured Self-Distillation**  
   *Hao Lin, Kunyang Lv, Xu Jiang, Jingqi Tian, Zhongjing Du, Jiayu Ding, Qiaoman Zhang, Hongbo Jin*. [[pdf](https://arxiv.org/pdf/2605.06094)], 2026.05. ![](https://img.shields.io/badge/Arxiv2026-orange)
-
+- **OPSD Compresses What RLVR Teaches: A Post-RL Compaction Stage for Reasoning Models**  
+  *Jaehoon Kim, Dongha Lee*. [[pdf](https://arxiv.org/pdf/2605.06188)], 2026.05. ![](https://img.shields.io/badge/Arxiv2026-orange)
 
 
 ### Training Stability
@@ -166,6 +172,33 @@ This repository contains a regularly updated paper list on **On-Policy Distillat
   *Wenjin Hou, Shangpin Peng, Weinong Wang, Zheng Ruan, Yue Zhang, Zhenglin Zhou, Mingqi Gao, Yifei Chen, Kaiqi Wang, Hongming Yang, Chengquan Zhang, Zhuotao Tian, Han Hu, Yi Yang, Fei Wu, Hehe Fan*. [[pdf](https://arxiv.org/pdf/2605.03677)], 2026.05. ![](https://img.shields.io/badge/Arxiv2026-orange)
 - **Near-Policy: Accelerating On-Policy Distillation via Asynchronous Generation and Selective Packing**  
   *Miao Rang, Zhenni Bi, Hang Zhou, Kai Han, Xuechun Wang, An Xiao, Xinghao Chen, Yunhe Wang, Hanting Chen*. [[pdf](https://arxiv.org/pdf/2605.05940)], 2026.05. ![](https://img.shields.io/badge/Arxiv2026-orange)
+- **Safactory: A Scalable Agentic Infrastructure for Training Trustworthy Autonomous Intelligence**  
+  *Shanghai AI Laboratory*. [[pdf](https://arxiv.org/pdf/2605.06230)], 2026.05. ![](https://img.shields.io/badge/Arxiv2026-orange)
+- **Asymmetric On-Policy Distillation: Bridging Exploitation and Imitation at the Token Level**  
+  *Nan Jia, Haojin Yang, Xing Ma, Jiesong Lian, Shuailiang Zhang, Weipeng Zhang, Ke Zeng, Xunliang Cai, Zequn Sun*. [[pdf](https://arxiv.org/pdf/2605.06387)], 2026.05. ![](https://img.shields.io/badge/Arxiv2026-orange)
+- **Prune-OPD: Efficient and Reliable On-Policy Distillation for Long-Horizon Reasoning**  
+  *Zhicheng Yang, Zhijiang Guo, Yifan Song, Minrui Xu, Yongxin Wang, Yiwei Wang, Xiaodan Liang, Jing Tang*. [[pdf](https://arxiv.org/pdf/2605.07804)], 2026.05. ![](https://img.shields.io/badge/Arxiv2026-orange)
+- **KL for a KL: On-Policy Distillation with Control Variate Baseline**  
+  *Minjae Oh, Sangjun Song, Gyubin Choi, Yunho Choi, Yohan Jo*. [[pdf](https://arxiv.org/pdf/2605.07865)], 2026.05. ![](https://img.shields.io/badge/Arxiv2026-orange)
+
+### Cross-Tokenizer On-Policy Distillation
+
+#### White-Box
+- **Unlocking On-Policy Distillation for Any Model Family**  
+  *Hugging Face*. [[pdf](https://huggingface.co/spaces/HuggingFaceH4/on-policy-distillation)], 2025.10. ![](https://img.shields.io/badge/Blog2025-orange)
+- **SimCT: Recovering Lost Supervision for Cross-Tokenizer On-Policy Distillation**  
+  *Jie Sun, Mao Zheng, Mingyang Song, Qiyong Zhong, Yilin Cheng, Bichuan Feng, Pengfei Liu, Junfeng Fang, Xiang Wang*. [[pdf](https://arxiv.org/pdf/2605.07711)], 2026.05. ![](https://img.shields.io/badge/Blog2025-orange)
+
+#### Black-Box
+- **Black-Box On-Policy Distillation of Large Language Models**  
+  *Tianzhu Ye, Li Dong, Zewen Chi, Xun Wu, Shaohan Huang, Furu Wei*. [[pdf](https://arxiv.org/pdf/2511.10643)], 2025.11. ![](https://img.shields.io/badge/Arxiv2025-orange)
+- **OVD: On-policy Verbal Distillation**  
+  *Jing Xiong, Hui Shen, Shansan Gong, Yuxin Cheng, Jianghan Shen, Chaofan Tao, Haochen Tan, Haoli Bai, Lifeng Shang, Ngai Wong*. [[pdf](https://arxiv.org/pdf/2601.21968)], 2026.01. ![](https://img.shields.io/badge/Arxiv2026-orange)
+- **SODA: Semi On-Policy Black-Box Distillation for Large Language Models**  
+  *Xiwen Chen, Jingjing Wang, Wenhui Zhu, Peijie Qiu, Xuanzhao Dong, Hejian Sang, Zhipeng Wang, Alborz Geramifard, Feng Luo*. [[pdf](https://arxiv.org/pdf/2604.03873)], 2026.04. ![](https://img.shields.io/badge/Arxiv2026-orange)
+- **Rubric-based On-policy Distillation**  
+  *Junfeng Fang, Zhepei Hong, Mao Zheng, Mingyang Song, Gengsheng Li, Houcheng Jiang, Dan Zhang, Haiyun Guo, Xiang Wang, Tat-Seng Chua*. [[pdf](https://arxiv.org/pdf/2605.07396)], 2026.05. ![](https://img.shields.io/badge/Arxiv2026-orange)
+
 
 ### Offline On-Policy Distillation
 - **Lightning OPD: Efficient Post-Training for Large Reasoning Models with Offline On-Policy Distillation**  
