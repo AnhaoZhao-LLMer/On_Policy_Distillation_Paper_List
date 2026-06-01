@@ -94,6 +94,10 @@ This repository contains a regularly updated paper list on **On-Policy Distillat
   *Yuchao Gu, Guian Fang, Yuxin Jiang, Weijia Mao, Song Han, Han Cai, Mike Zheng Shou*. [[pdf](https://arxiv.org/pdf/2605.13724)], 2026.05. ![](https://img.shields.io/badge/Arxiv2026-orange)
 - **DiffusionOPD: A Unified Perspective of On-Policy Distillation in Diffusion Models**  
   *Quanhao Li, Junqiu Yu, Kaixun Jiang, Yujie Wei, Zhen Xing, Pandeng Li, Ruihang Chu, Shiwei Zhang, Yu Liu, Zuxuan Wu*. [[pdf](https://arxiv.org/pdf/2605.15055)], 2026.05. ![](https://img.shields.io/badge/Arxiv2026-orange)
+- **MoASE++: Mixture of Activation Sparsity Experts with Domain-Adaptive On-policy Distillation for Continual Test Time Adaptation**  
+  *Ronyu Zhang, Aosong Cheng, Gaole Dai, Yulin Luo, Jiaming Liu, Li Du, Huanrui Yang, Dan Wang, Leyuan Fang, Yuan Du, Shanghang Zhang*. [[pdf](https://arxiv.org/pdf/2605.17743)], 2026.05. ![](https://img.shields.io/badge/Arxiv2026-orange)
+- **f-OPD: Stabilizing Long-Horizon On-Policy Distillation with Freshness-Aware Control**  
+  *Xianwei Chen, Shimin Zhang, Jibin Wu*. [[pdf](https://arxiv.org/pdf/2605.17862)], 2026.05. ![](https://img.shields.io/badge/Arxiv2026-orange)
 
 #### Multi-Teacher
 - **MiMo-V2-Flash Technical Report**  
@@ -187,6 +191,12 @@ This repository contains a regularly updated paper list on **On-Policy Distillat
   *Yu Fu, Longxuan Yu, Haz Sameen Shahgir, Zhipeng Wei, Hui Liu, N.Benjamin Erichson, Yue Dong*. [[pdf](https://arxiv.org/pdf/2605.15239)], 2026.05. ![](https://img.shields.io/badge/Arxiv2026-orange)
 - **Respecting Self-Uncertainty in On-Policy Self-Distillation for Efficient LLM Reasoning**  
   *Junlong Ke, Zichen Wen, Weijia Li, Conghui He, Linfeng Zhang*. [[pdf](https://arxiv.org/pdf/2605.13255)], 2026.05. ![](https://img.shields.io/badge/Arxiv2026-orange)
+- **ORACLE: Anticipating Scams from Partial Trajectories in Streaming App Usage**  
+  *Wenbo Gao, Songbai Tan, Zhongan Wang, Fei Shen, Gang Xu, Huiping Zhuang, Yunyun Yang, Ming Li, Xiaofeng Zhu*. [[pdf](https://arxiv.org/pdf/2605.16363)], 2026.05. ![](https://img.shields.io/badge/Arxiv2026-orange)
+- **MixSD: Mixed Contextual Self-Distillation for Knowledge Injection**  
+  *Jiarui Liu, Lechen Zhang, Yongjin Yang, Yinghui He, Yingheng Wang, Weihao Xuan, Zhijing Jin, Mona Diab*. [[pdf](https://arxiv.org/pdf/2605.16865)], 2026.05. ![](https://img.shields.io/badge/Arxiv2026-orange)
+- **Self-Supervised On-Policy Distillation for Reasoning Language Models**  
+  *Zhiquan Tan, Yinrong Hong*. [[pdf](https://arxiv.org/pdf/2605.17497)], 2026.05. ![](https://img.shields.io/badge/Arxiv2026-orange)
 
 ### Training Stability
 - **Stable On-Policy Distillation through Adaptive Target Reformulation**  
@@ -262,6 +272,8 @@ This repository contains a regularly updated paper list on **On-Policy Distillat
   *Yuchen Cai, Ding Cao, Liang Lin, Chunxi Luo, Xin Xu, Kai Yang, Weijie Liu, Saiyong Yang, Tianxiang Zhao, Guangzhong Sun, Guiquan Liu, Junfeng Fang*. [[pdf](https://arxiv.org/pdf/2605.11739)], 2026.05. ![](https://img.shields.io/badge/Arxiv2026-orange)
 - **Beyond GRPO and On-Policy Distillation: An Empirical Sparse-to-Dense Reward Principle for Language-Model Post-Training**  
   *Yuanda Xu, Hejian Sang, Zhengze Zhou, Ran He, Zhipeng Wang, Alborz Geramifard*. [[pdf](https://arxiv.org/pdf/2605.12483)], 2026.05. ![](https://img.shields.io/badge/Arxiv2026-orange)
+- **Decoupling KL and Trajectories: A Unified Perspective for SFT, DAgger, Offline RL, and OPD in LLM Distillation**  
+  *Anhao Zhao, Haoran Xin, Yingqi Fan, Junlong Tong, Wenjie Li, Xiaoyu Shen*. [[pdf](https://arxiv.org/pdf/2605.16826)], 2026.05. ![](https://img.shields.io/badge/Arxiv2026-orange)
 
 ### Data
 - **Emergent and Subliminal Misalignment Through the Lens of Data-Mediated Transfer**  
