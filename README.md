@@ -137,6 +137,8 @@ This repository contains a regularly updated paper list on **On-Policy Distillat
   *DeepSeek Team*. [[pdf](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro/blob/main/DeepSeek_V4.pdf)], 2026.04. ![](https://img.shields.io/badge/TechnicalReport2026-orange)
 - **Co-Evolving Policy Distillation**  
   *Naibin Gu, Chenxu Yang, Qingyi Si, Chuanyu Qin, Dingyu Yao, Peng Fu, Zheng Lin, Weiping Wang, Nan Duan, Jiaqi Wang*. [[pdf](https://arxiv.org/pdf/2604.27083)], 2026.04. ![](https://img.shields.io/badge/Arxiv2026-orange)
+- **Multi-Teacher On-Policy Distillation: A New Post-Training Primitive**  
+  *Yumo Xu*. [[pdf](https://yumoxu.notion.site/multi-teacher-on-policy-distillation)], 2026.04. ![](https://img.shields.io/badge/Blog2026-orange)
 - **MAD-OPD: Breaking the Ceiling in On-Policy Distillation via Multi-Agent Debate**  
   *Jianze Wang, Ying Liu, Jinlong Chen, Xuchun Hu, Qilong Zhang, Yu Cao, Jun Wang, Hua Yang, Yong Xie, Qianglong Chen*. [[pdf](https://arxiv.org/pdf/2605.01347)], 2026.05. ![](https://img.shields.io/badge/Arxiv2026-orange)
 - **CollectionLoRA: Collecting 50 Effects in 1 LoRA via Multi-Teacher On-Policy Distillation**  
