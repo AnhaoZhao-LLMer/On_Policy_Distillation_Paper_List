@@ -122,6 +122,8 @@ This repository contains a regularly updated paper list on **On-Policy Distillat
   *Hao Li, Jingkun An, Zijun Song, Pengyu Zhu, Rui Li, Hao Wang, Wendi Feng, Yesheng Liu, Lijun Li, Jin-Ge Yao, Lei Sha*. [[pdf](https://arxiv.org/pdf/2606.02530)], 2026.06. ![](https://img.shields.io/badge/Arxiv2026-orange)
 - **Covert Influence Between Language Models**  
   *Avidan Shah, Jay Chooi, Jinghua Ou, Shi Feng*. [[pdf](https://arxiv.org/pdf/2606.04071)], 2026.06. ![](https://img.shields.io/badge/Arxiv2026-orange)
+- **OPRD: On-Policy Representation Distillation**  
+  *Shenzhi Yang, Guangcheng Zhu, Bowen Song, Haobo Wang, Mingxuan Xia, Xing Zheng, Yingfan Ma, Zhongqi Chen, Weiqiang Wang, Gang Chen*. [[pdf](https://arxiv.org/pdf/2606.06021)], 2026.06. ![](https://img.shields.io/badge/Arxiv2026-orange)
 
 
 #### Multi-Teacher
@@ -283,6 +285,12 @@ This repository contains a regularly updated paper list on **On-Policy Distillat
   *Yifeng Liu, Shiyuan Zhang, Yifan Zhang, Quanquan Gu*. [[pdf](https://arxiv.org/pdf/2606.04036)], 2026.06. ![](https://img.shields.io/badge/Arxiv2026-orange)
 - **Rethinking Continual Experience Internalization for Self-Evolving LLM Agents**  
   *Jingwen Chen, Wenkai Yang, Shengda Fan, Wenbo Nie, Chenxing Sun, Shaodong Zheng, Yangen Hu, Lu Pan, Ke Zeng, Yankai Lin*. [[pdf](https://arxiv.org/pdf/2606.04703)], 2026.06. ![](https://img.shields.io/badge/Arxiv2026-orange)
+- **Reinforcement Learning from Rich Feedback with Distributional DAgger**  
+  *Rishabh Agrawal, Jacob Fein-Ashley, Paria Rashidinejad*. [[pdf](https://arxiv.org/pdf/2606.05152)], 2026.06. ![](https://img.shields.io/badge/Arxiv2026-orange)
+- **ViCuR: Visual Cues as Recoverable Privilege for Multimodal On-Policy Distillation**  
+  *Kanghui Tian, Siyuan Liu, Ziang Yan, Sheng Xia, Shuai Dong, Yi Wang*. [[pdf](https://arxiv.org/pdf/2606.05718)], 2026.06. ![](https://img.shields.io/badge/Arxiv2026-orange)
+- **Learning Visual Spatial Planning from Symbolic State via Modality-Gap-Aware Self-Distillation**  
+  *Haocheng Luo, Jiahui Liu, Ruicheng Zhang, Zhizhou Zhong, Jiaqi Huang, Zunnan Xu, Quan Shi, Jun Zhou, Xiu Li*. [[pdf](https://arxiv.org/pdf/2606.06076)], 2026.06. ![](https://img.shields.io/badge/Arxiv2026-orange)
 
 ### Training Stability
 - **Stable On-Policy Distillation through Adaptive Target Reformulation**  
