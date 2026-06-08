@@ -124,7 +124,8 @@ This repository contains a regularly updated paper list on **On-Policy Distillat
   *Avidan Shah, Jay Chooi, Jinghua Ou, Shi Feng*. [[pdf](https://arxiv.org/pdf/2606.04071)], 2026.06. ![](https://img.shields.io/badge/Arxiv2026-orange)
 - **OPRD: On-Policy Representation Distillation**  
   *Shenzhi Yang, Guangcheng Zhu, Bowen Song, Haobo Wang, Mingxuan Xia, Xing Zheng, Yingfan Ma, Zhongqi Chen, Weiqiang Wang, Gang Chen*. [[pdf](https://arxiv.org/pdf/2606.06021)], 2026.06. ![](https://img.shields.io/badge/Arxiv2026-orange)
-
+- **Data-Efficient Autoregressive-to-Diffusion Language Models via On-Policy Distillation**  
+  *Xingyu Su, Jacob Helwig, Shubham Parashar, Atharv Chagi, Lakshmi Jotsna, Degui Zhi, James Caverlee, Dileep Kalathil, Shuiwang Ji*. [[pdf](https://arxiv.org/pdf/2606.06712)], 2026.06. ![](https://img.shields.io/badge/Arxiv2026-orange)
 
 #### Multi-Teacher
 - **MiMo-V2-Flash Technical Report**  
@@ -402,6 +403,8 @@ This repository contains a regularly updated paper list on **On-Policy Distillat
   *Hee Suk Yoon, Eunseop Yoon, Jaehyun Jang, SooHwan Eom, Ji Woo Hong, Mark Hasegawa-Johnson, Qi Dai, Chong Luo, Chang D. Yoo*. [[pdf](https://arxiv.org/pdf/2606.00564)], 2026.06. ![](https://img.shields.io/badge/Arxiv2026-orange)
 - **OPD+: Rethinking the Advantage Design for On-Policy Distillation**  
   *Hanyang Zhao, Haoxian Chen, Han Lin, Genta Indra Winata, David Yao, Wenpin Tang*. [[pdf](https://arxiv.org/pdf/2606.01039)], 2026.06. ![](https://img.shields.io/badge/Arxiv2026-orange)
+- **On the Geometry of On-Policy Distillation**  
+  *Zhennan Shen, Yanshu Li, Qingyu Yin, Chak Tou Leong, Zhilin Wang, Yanxu Chen, Rongduo Han, Sunbowen Lee, Yi R. Fung*. [[pdf](https://arxiv.org/pdf/2606.07082)], 2026.06. ![](https://img.shields.io/badge/Arxiv2026-orange)
 
 ### Data
 - **Emergent and Subliminal Misalignment Through the Lens of Data-Mediated Transfer**  
