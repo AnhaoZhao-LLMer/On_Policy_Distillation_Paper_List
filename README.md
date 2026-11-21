@@ -32,6 +32,8 @@ This repository contains a regularly updated paper list on **On-Policy Distillat
 
 ### Teacher–Student–Based OPD
 #### Single Teacher
+- **MultiAgent-OPD: End-to-End Training of Hierarchical Multi-Agent Systems with On-Policy Distillation**<br>
+  *Yuhan Sun, Jiaxin Zhao, Yongdong Luo, Yibo Hu, Meiguang Jin, Junfeng Ma, Weixun Wang, Weihang Pan, Zhongan Bi*. [[pdf](https://arxiv.org/pdf/2610.23234v2)], 2026.10. ![](https://img.shields.io/badge/Arxiv2026-orange)
 - **MiniLLM: On-Policy Distillation of Large Language Models**  
   *Yuxian Gu, Li Dong, Furu Wei, Minlie Huang*. [[pdf](https://arxiv.org/pdf/2306.08543)], 2023.06. ![](https://img.shields.io/badge/ICLR2024-orange)
 - **On-Policy Distillation of Language Models: Learning from Self-Generated Mistakes**  
